@@ -2,11 +2,11 @@
 
 ## Personal Profiles
 
-- **Name**: *Vincent Zhang*
+- **`Name`**: *Vincent Zhang*
 
-- **Age**: *24*
+- **`Age`**: *24*
 
-- **Email**: *herobrine2983@gmail.com*
+- **`Email`**: *herobrine2983@gmail.com*
 
 ## My Github
 
