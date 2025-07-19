@@ -8,7 +8,9 @@
 
 - **`Email`**: *herobrine2983@gmail.com*
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> My Github
+## <a href="https://github.com" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" alt="GitHub Logo">
+</a> My Github
 
 *https://github.com/NicEzWs2983*
 
