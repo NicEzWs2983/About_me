@@ -8,7 +8,7 @@
 
 - **`Email`**: *herobrine2983@gmail.com*
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"> My Github
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> My Github
 
 *https://github.com/NicEzWs2983*
 
