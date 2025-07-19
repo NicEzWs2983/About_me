@@ -1,6 +1,6 @@
 # **About Me**
 
-## Personal Profiles
+## 🧑‍💻Personal Profiles
 
 - **`Name`**: *Vincent Zhang*
 
@@ -8,7 +8,7 @@
 
 - **`Email`**: *herobrine2983@gmail.com*
 
-## My Github
+## <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="40"> My Github
 
 *https://github.com/NicEzWs2983*
 
