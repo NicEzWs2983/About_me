@@ -16,8 +16,8 @@
 
 - *https://gist.github.com/NicEzWs2983/719872d83edcec7465904615c009239a*
 
+- Or take a look at my Colab file in the specified directory <a href="./colab/">click me</a>
+
 ### Other projects on Github
 
 - **My 2D Game**: *https://github.com/NicEzWs2983/My2DGame*
-
-<script src="https://gist.github.com/NicEzWs2983/719872d83edcec7465904615c009239a.js"></script>
