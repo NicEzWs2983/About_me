@@ -18,4 +18,4 @@
 
 ### Other projects on Github
 
-- My 2D Game: *https://github.com/NicEzWs2983/My2DGame*
+- **My 2D Game**: *https://github.com/NicEzWs2983/My2DGame*
