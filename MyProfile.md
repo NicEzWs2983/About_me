@@ -2,11 +2,13 @@
 
 ## 🧑‍💻Personal Profiles
 
-**`Name`**: *Vincent Zhang*
+**`Name`**: *ZHANG, Wei-Sheng*
 
-**`Age`**: *24*
+**`Age`**: *25*
 
-**`Email`**: *herobrine2983@gmail.com*
+**`Email`**: *vincent2001zhang@gmail.com*
+
+**`Country`**: *Taiwan*
 
 ## <a href="https://github.com" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="27" alt="GitHub Logo"></a> My Github
 
